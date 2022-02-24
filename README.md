@@ -59,19 +59,8 @@ npm run start
 
 <br><br>
 <p>
-    Created by Roldhan Dasalla
+    Created by Suiterus Developers
 </p>
 <p>
     Dependecy template : <a href="https://github.com/cretueusebiu/laravel-nuxt" target="_blank">https://github.com/cretueusebiu/laravel-nuxt</a>
 </p>
-
-# Change logs
-
-## UPDATE 4.0
-<ul>
-    <li>
-        <p>
-            Updated package.json to support latest nodejs and npm versions.</a>
-        </p>
-    </li>
-</ul>
