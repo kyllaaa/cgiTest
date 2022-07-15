@@ -1,4 +1,3 @@
-
 ## INSTALLATION
 ```
 git clone https://gitlab.com/cgi38/morfe-test.git
@@ -8,7 +7,7 @@ npm install
 # copy .env.example file
 cp .env.example .env
 
-# paste thin in .env file
+# paste this in .env file
 APP_NAME="STI - Project Frontend Template"
 APP_ENV=local
 APP_KEY=base64:x8DjNWoQ8Ko+kU3Xexo+0s5QheLPaeDoHxQURDcmqew=
