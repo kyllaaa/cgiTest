@@ -33,6 +33,12 @@ const page = path => () => import(`~/pages/${path}`).then(m => m.default || m)
 
 const routes = [
   { path: '/', name: 'home', component: page('welcome.vue') },
+  { path: '/personalInfo', name: 'personalInfo', component: page('personalInfo.vue') },
+  { path: '/education', name: 'educ', component: page('education.vue') },
+  { path: '/research', name: 'research', component: page('research.vue') },
+  { path: '/skills', name: 'skills', component: page('skills.vue') },
+  { path: '/experience', name: 'expe', component: page('experience.vue') },
+
 ]
 
 export function createRouter () {
