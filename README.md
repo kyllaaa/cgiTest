@@ -27,6 +27,10 @@ REDIS_PORT=6379
 Note: Change the <user> on both CERT_PATH and KEY_PATH
 
 ```
+
+#go to terminal and ente
+npm run dev
+
 Go to your browser, then paste this link:
 https://cgi.test:3000/
 
