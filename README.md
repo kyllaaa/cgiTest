@@ -1,7 +1,7 @@
 ## INSTALLATION
 ```
-git clone https://gitlab.com/cgi38/morfe-test.git
-cd <folder_name_here>
+git clone https://github.com/kyllaaa/cgiTest.git
+cd cgiTest
 npm install
 
 # copy .env.example file
